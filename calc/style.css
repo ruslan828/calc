@@ -1,0 +1,18 @@
+/*
+bg #202020
+buttons #323232
+equals #4cc2ff
+*/
+
+.calc {
+    margin: 50px auto;
+    width: 300px;
+    height: 500px;
+    /*border:1px solid #000; */
+    border-radius: 20px;
+    background: #202020;
+    color #fff;
+    font-family: Arial;
+    padding: 18px;
+    box-shadow: 4px 4px 4px #4f4f4f;
+}
